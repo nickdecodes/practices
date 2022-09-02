@@ -4,3 +4,6 @@
 [submodule "hzoj"]
 	path = hzoj
 	url = git@github.com:nickdecodes/hzoj.git
+[submodule "euler"]
+	path = euler
+	url = git@github.com:nickdecodes/euler.git
