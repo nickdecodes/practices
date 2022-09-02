@@ -1,12 +1,12 @@
 [submodule "luogu"]
 	path = luogu
 	url = git@github.com:nickdecodes/luogu.git
-[submodule "hzoj"]
-	path = hzoj
-	url = git@github.com:nickdecodes/hzoj.git
-[submodule "euler"]
-	path = euler
-	url = git@github.com:nickdecodes/euler.git
-[submodule "leetcode"]
-	path = leetcode
-	url = git@github.com:nickdecodes/leetcode.git
+[submodule "hzoj_practice"]
+	path = hzoj_practice
+	url = git@github.com:nickdecodes/hzoj_practice.git
+[submodule "euler_practice"]
+	path = euler_practice
+	url = git@github.com:nickdecodes/euler_practice.git
+[submodule "leetcode_practice"]
+	path = leetcode_practice
+	url = git@github.com:nickdecodes/leetcode_practice.git
