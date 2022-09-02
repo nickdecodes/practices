@@ -13,3 +13,6 @@
 [submodule "linux_practice"]
 	path = linux_practice
 	url = git@github.com:nickdecodes/linux_practice.git
+[submodule "design_model_practice"]
+	path = design_model_practice
+	url = git@github.com:nickdecodes/design_model_practice.git
