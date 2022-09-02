@@ -7,3 +7,6 @@
 [submodule "euler"]
 	path = euler
 	url = git@github.com:nickdecodes/euler.git
+[submodule "leetcode"]
+	path = leetcode
+	url = git@github.com:nickdecodes/leetcode.git
