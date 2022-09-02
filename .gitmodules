@@ -10,3 +10,6 @@
 [submodule "leetcode_practice"]
 	path = leetcode_practice
 	url = git@github.com:nickdecodes/leetcode_practice.git
+[submodule "linux_practice"]
+	path = linux_practice
+	url = git@github.com:nickdecodes/linux_practice.git
