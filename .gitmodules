@@ -1,3 +1,6 @@
 [submodule "luogu"]
 	path = luogu
 	url = git@github.com:nickdecodes/luogu.git
+[submodule "hzoj"]
+	path = hzoj
+	url = git@github.com:nickdecodes/hzoj.git
