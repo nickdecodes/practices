@@ -1,0 +1,12 @@
+[submodule "luogu_practice"]
+	path = luogu_practice
+	url = git@github.com:nickdecodes/luogu_practice.git
+[submodule "hzoj_practice"]
+	path = hzoj_practice
+	url = git@github.com:nickdecodes/hzoj_practice.git
+[submodule "euler_practice"]
+	path = euler_practice
+	url = git@github.com:nickdecodes/euler_practice.git
+[submodule "leetcode_practice"]
+	path = leetcode_practice
+	url = git@github.com:nickdecodes/leetcode_practice.git
