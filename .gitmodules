@@ -1,0 +1,3 @@
+[submodule "luogu"]
+	path = luogu
+	url = git@github.com:nickdecodes/luogu.git
