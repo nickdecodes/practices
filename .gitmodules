@@ -34,3 +34,6 @@
 [submodule "db_practice"]
 	path = db_practice
 	url = git@github.com:nickdecodes/db_practice.git
+[submodule "streaming_media_practice"]
+	path = streaming_media_practice
+	url = git@github.com:nickdecodes/streaming_media_practice.git
