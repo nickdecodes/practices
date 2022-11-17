@@ -31,9 +31,6 @@
 [submodule "golang_practice"]
 	path = golang_practice
 	url = git@github.com:nickdecodes/golang_practice.git
-[submodule "sreaming_media_practice"]
-	path = sreaming_media_practice
-	url = git@github.com:nickdecodes/sreaming_media_practice.git
 [submodule "db_practice"]
 	path = db_practice
 	url = git@github.com:nickdecodes/db_practice.git
