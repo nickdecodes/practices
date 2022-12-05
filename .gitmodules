@@ -37,3 +37,6 @@
 [submodule "streaming_media_practice"]
 	path = streaming_media_practice
 	url = git@github.com:nickdecodes/streaming_media_practice.git
+[submodule "opencv_practice"]
+	path = opencv_practice
+	url = git@github.com:nickdecodes/opencv_practice.git
