@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpp_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/db_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/design_model_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/euler_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hzoj_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/leetcode_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/luogu_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/streaming_media_practice" vcs="Git" />
+  </component>
+</project>
