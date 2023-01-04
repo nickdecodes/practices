@@ -40,3 +40,42 @@
 [submodule "opencv_practice"]
 	path = opencv_practice
 	url = git@github.com:nickdecodes/opencv_practice.git
+[submodule "c-practice"]
+	path = c-practice
+	url = git@github.com:nickdecodes/c-practice.git
+[submodule "cpp-practice"]
+	path = cpp-practice
+	url = git@github.com:nickdecodes/cpp-practice.git
+[submodule "db-practice"]
+	path = db-practice
+	url = git@github.com:nickdecodes/db-practice.git
+[submodule "design-model-practice"]
+	path = design-model-practice
+	url = git@github.com:nickdecodes/design-model-practice.git
+[submodule "euler-practice"]
+	path = euler-practice
+	url = git@github.com:nickdecodes/euler-practice.git
+[submodule "golang-practice"]
+	path = golang-practice
+	url = git@github.com:nickdecodes/golang-practice.git
+[submodule "hzoj-practice"]
+	path = hzoj-practice
+	url = git@github.com:nickdecodes/hzoj-practice.git
+[submodule "leetcode-practice"]
+	path = leetcode-practice
+	url = git@github.com:nickdecodes/leetcode-practice.git
+[submodule "linux-practice"]
+	path = linux-practice
+	url = git@github.com:nickdecodes/linux-practice.git
+[submodule "luogu-practice"]
+	path = luogu-practice
+	url = git@github.com:nickdecodes/luogu-practice.git
+[submodule "python-practice"]
+	path = python-practice
+	url = git@github.com:nickdecodes/python-practice.git
+[submodule "opencv-practice"]
+	path = opencv-practice
+	url = git@github.com:nickdecodes/opencv-practice.git
+[submodule "streaming-media-practice"]
+	path = streaming-media-practice
+	url = git@github.com:nickdecodes/streaming-media-practice.git
